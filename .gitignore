@@ -1,0 +1,43 @@
+# Compiled class files
+*.class
+
+# Package Files (compiled distribution bundles)
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# NetBeans build and private configuration files
+/build/
+/dist/
+/nbproject/private/
+/nbbuild/
+/nbdist/
+/.nb-gradle/
+
+# Eclipse build outputs and workspace metadata
+.metadata
+/bin/
+/tmp/
+*.tmp
+*.bak
+*.swp
+.settings/
+.loadpath
+
+# VS Code workspace files
+.vscode/
+
+# Log files and crash dumps
+*.log
+hs_err_pid*
+replay_pid*
+
+# OS-specific files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
